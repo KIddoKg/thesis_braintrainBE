@@ -17,6 +17,8 @@ flutter doctor
 to check it work clearly. 
 
 
+!!!Note recommend using Flutter version 3.19.5 and Dart 3.3.3
+
 ## Import code
 
 - Import the source code by using vsCode or AndroidStudio (IntelliJ).
