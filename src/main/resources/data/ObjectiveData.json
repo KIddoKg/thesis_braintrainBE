@@ -1,0 +1,48 @@
+{
+  "trainingData": [
+    {"level": 1, "noOfTurns": 1},
+    {"level": 2, "noOfTurns": 10},
+    {"level": 3, "noOfTurns": 20},
+    {"level": 4, "noOfTurns": 30},
+    {"level": 5, "noOfTurns": 40},
+    {"level": 6, "noOfTurns": 50},
+    {"level": 7, "noOfTurns": 60},
+    {"level": 8, "noOfTurns": 70},
+    {"level": 9, "noOfTurns": 80},
+    {"level": 10, "noOfTurns": 90}
+  ],
+  "conTrainingData": [
+    {"level": 1, "noOfDays": 2},
+    {"level": 2, "noOfDays": 5},
+    {"level": 3, "noOfDays": 7},
+    {"level": 4, "noOfDays": 10},
+    {"level": 5, "noOfDays": 15},
+    {"level": 6, "noOfDays": 20},
+    {"level": 7, "noOfDays": 25},
+    {"level": 8, "noOfDays": 30}
+  ],
+  "trainingTimeData": [
+    {"level":  10, "playingTime":  30},
+    {"level":  9, "playingTime":  20},
+    {"level":  8, "playingTime":  15},
+    {"level":  7, "playingTime":  12},
+    {"level":  6, "playingTime":  9},
+    {"level":  5, "playingTime":  7},
+    {"level":  4, "playingTime":  5},
+    {"level":  3, "playingTime":  3},
+    {"level":  2, "playingTime":  1},
+    {"level":  1, "playingTime":  0.5}
+  ],
+  "gameTypeTrainingData": [
+    {"level": 1, "times": 10},
+    {"level": 2, "times": 20},
+    {"level": 3, "times": 30},
+    {"level": 4, "times": 40},
+    {"level": 5, "times": 50},
+    {"level": 6, "times": 60},
+    {"level": 7, "times": 70},
+    {"level": 8, "times": 80},
+    {"level": 9, "times": 90},
+    {"level": 10, "times": 100}
+  ]
+}

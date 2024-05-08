@@ -1,0 +1,15 @@
+version: "3"
+networks:
+  local_network:
+    external: true
+services:
+  my_sql:
+    image: mysql
+    container_name: braintrain_mysql
+    environment:
+      - MYSQL_ROOT_PASSWORD=helloWorld2001
+      - MYSQL_DATABASE=braintrain
+    ports:
+      - 3306:3306
+    volumes:
+      - ./braintrain_mysql:/var/lib/mysql
